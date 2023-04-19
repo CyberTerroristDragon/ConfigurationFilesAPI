@@ -11,7 +11,8 @@
     "flagUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/Flags/sa.png",
     "networkIconUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/Networks/South%20Africa/vodacomlogo.png",
     "vpnIconUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/VPNApp/ha_tunnel_logo.png",
-    "testedIconUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/Tested/tested.png"
+    "testedIconUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/Tested/tested.png",
+    "fileDownloadUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/Tested/tested.png"
   },
   {
     "dataId": 1,
@@ -25,7 +26,8 @@
     "flagUrl": "https://via.placeholder.com/600/92c952",
     "networkIconUrl": "https://via.placeholder.com/150/92c952",
     "vpnIconUrl": "https://via.placeholder.com/150/92c952",
-    "testedIconUrl": "https://via.placeholder.com/150/92c952"
+    "testedIconUrl": "https://via.placeholder.com/150/92c952",
+    "fileDownloadUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/Tested/tested.png"
   },
   {
     "dataId": 1,
@@ -39,7 +41,8 @@
     "flagUrl": "https://via.placeholder.com/600/92c952",
     "networkIconUrl": "https://via.placeholder.com/150/92c952",
     "vpnIconUrl": "https://via.placeholder.com/150/92c952",
-    "testedIconUrl": "https://via.placeholder.com/150/92c952"
+    "testedIconUrl": "https://via.placeholder.com/150/92c952",
+    "fileDownloadUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/Tested/tested.png"
   },
   {
     "dataId": 1,
@@ -53,7 +56,8 @@
     "flagUrl": "https://via.placeholder.com/600/92c952",
     "networkIconUrl": "https://via.placeholder.com/150/92c952",
     "vpnIconUrl": "https://via.placeholder.com/150/92c952",
-    "testedIconUrl": "https://via.placeholder.com/150/92c952"
+    "testedIconUrl": "https://via.placeholder.com/150/92c952",
+    "fileDownloadUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/Tested/tested.png"
   },
   {
     "dataId": 1,
@@ -67,6 +71,7 @@
     "flagUrl": "https://via.placeholder.com/600/92c952",
     "networkIconUrl": "https://via.placeholder.com/150/92c952",
     "vpnIconUrl": "https://via.placeholder.com/150/92c952",
-    "testedIconUrl": "https://via.placeholder.com/150/92c952"
+    "testedIconUrl": "https://via.placeholder.com/150/92c952",
+    "fileDownloadUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/Tested/tested.png"
   }
 ]
