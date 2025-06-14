@@ -2,11 +2,9 @@
   {
     "dataId": 1,
     "id": 0,
-    "title": "100 MB per day",
+    "title": "SpringVale Online",
     "country": "South Africa",
-    "network": "MTN",
-    "vpnApp": "Ha Tunnel",
-    "tested": "Verified",
+    "Athentication": "Verified",
     "description": "100 MB per day everyday on MTN south Africa, File is locked in Mobile data",
     "flagUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/Flags/sa.png",
     "networkIconUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/Networks/South%20Africa/mtnlogo.png",
