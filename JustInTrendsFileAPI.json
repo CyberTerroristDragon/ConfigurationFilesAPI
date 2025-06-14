@@ -7,17 +7,7 @@
     "Authentication": "Verified",
     "description": "100 MB per day everyday on MTN south Africa, File is locked in Mobile data",
     "flagUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/Flags/sa.png",
-    "SurveyIconUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/VPNApp/ha_tunnel_logo.png",
-    "SurveySiteUrl": "https://manyuploading.com/fvcnebhm791b/MTN_100MB_daily_locked_(mobile_data).hat.htm"
-  },
-  {
-   "dataId": 1,
-    "id": 0,
-    "title": "SpringVale Online",
-    "country": "South Africa",
-    "Authentication": "Verified",
-    "description": "100 MB per day everyday on MTN south Africa, File is locked in Mobile data",
-    "flagUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/Flags/sa.png",
+    "Tips": "SpringVale Online",
     "SurveyIconUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/VPNApp/ha_tunnel_logo.png",
     "SurveySiteUrl": "https://manyuploading.com/fvcnebhm791b/MTN_100MB_daily_locked_(mobile_data).hat.htm"
   },
@@ -29,6 +19,19 @@
     "Authentication": "Verified",
     "description": "100 MB per day everyday on MTN south Africa, File is locked in Mobile data",
     "flagUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/Flags/sa.png",
+    "Tips": "SpringVale Online",
+    "SurveyIconUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/VPNApp/ha_tunnel_logo.png",
+    "SurveySiteUrl": "https://manyuploading.com/fvcnebhm791b/MTN_100MB_daily_locked_(mobile_data).hat.htm"
+  },
+  {
+     "dataId": 1,
+    "id": 0,
+    "title": "SpringVale Online",
+    "country": "South Africa",
+    "Authentication": "Verified",
+    "description": "100 MB per day everyday on MTN south Africa, File is locked in Mobile data",
+    "flagUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/Flags/sa.png",
+    "Tips": "SpringVale Online",
     "SurveyIconUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/VPNApp/ha_tunnel_logo.png",
     "SurveySiteUrl": "https://manyuploading.com/fvcnebhm791b/MTN_100MB_daily_locked_(mobile_data).hat.htm"
   },
@@ -40,6 +43,7 @@
     "Authentication": "Verified",
     "description": "100 MB per day everyday on MTN south Africa, File is locked in Mobile data",
     "flagUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/Flags/sa.png",
+    "Tips": "SpringVale Online",
     "SurveyIconUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/VPNApp/ha_tunnel_logo.png",
     "SurveySiteUrl": "https://manyuploading.com/fvcnebhm791b/MTN_100MB_daily_locked_(mobile_data).hat.htm"
   },
@@ -51,6 +55,7 @@
     "Authentication": "Verified",
     "description": "100 MB per day everyday on MTN south Africa, File is locked in Mobile data",
     "flagUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/Flags/sa.png",
+    "Tips": "SpringVale Online",
     "SurveyIconUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/VPNApp/ha_tunnel_logo.png",
     "SurveySiteUrl": "https://manyuploading.com/fvcnebhm791b/MTN_100MB_daily_locked_(mobile_data).hat.htm"
   }
