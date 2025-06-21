@@ -22,5 +22,17 @@
     "Tips": "Add SpringVale Online on whatsapp using this Number +27 66 273 7125 for quick balances and cash out",
     "SurveyIconUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/Icons/springvale_online_logo.png",
     "SurveySiteUrl": "https://www.research.net/r/Subscribing_Springvale_Online"
+  },
+  {
+    "dataId": 1,
+    "id": 0,
+    "title": "UTest Project Opportunity",
+    "country": "South Africa",
+    "Authentication": "Verified",
+    "description": "Feeling buried under a mountain of loyalty program emails? Turn that digital clutter into cash! If you're a rewards member whose   inbox is overflowing with promotional messages from loyalty programs, we have an exciting opportunity for you. We're seeking. participants in various countries to share these emails and get paid for it!",
+    "flagUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/Flags/sa.png",
+    "Tips": "Participants who are willing to create a new account on an eligible merchant platform are also eligible to participate in the testing.",
+    "SurveyIconUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/Icons/Utest_icon_L.png",
+    "SurveySiteUrl": "https://www.m.utest.com/r/8de02c5c96e472931f6c6d373?ct=YTo2OntzOjY6InNvdXJjZSI7YToyOntpOjA7czo1OiJlbWFpbCI7aToxO2k6MTI4MjQ7fXM6NToiZW1haWwiO2k6MTI4MjQ7czo0OiJzdGF0IjtzOjIyOiI2ODQxYTQ0NDZkOWZhMDk3ODkxODY3IjtzOjk6InNlbnRfdGltZSI7aToxNzQ5MTMyMzU2O3M6NDoibGVhZCI7czo4OiIxNzUzMzAzMSI7czo3OiJjaGFubmVsIjthOjE6e3M6NToiZW1haWwiO2k6MTI4MjQ7fX0%3D&"
   }
 ]
