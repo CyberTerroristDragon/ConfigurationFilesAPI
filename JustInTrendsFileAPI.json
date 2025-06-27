@@ -2,6 +2,18 @@
   {
     "dataId": 1,
     "id": 0,
+    "title": "Social Media Influencer Endorsement Study",
+    "country": "South Africa",
+    "Authentication": "Verified",
+    "description": "We invite you to participate in a short and engaging survey about social media influencers—an exciting topic that many enjoy discussing! Your insights are valuable to us, and we want to ensure that everyone has a fair opportunity to share their thoughts.",
+    "flagUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/Flags/sa.png",
+    "Tips": "As a token of our appreciation, we will be paying you R10 for your participation in this 5-minute study, Before answering the questions, please take a moment to read the provided scenarios very carefully. There will be questions designed to test your understanding of these scenarios, and failing to answer them correctly may result in disqualification from the survey.",
+    "SurveyIconUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/Icons/springvale_online_logo.png",
+    "SurveySiteUrl": "https://www.research.net/r/SMIE_2025_Study"
+  },
+  {
+    "dataId": 1,
+    "id": 0,
     "title": "Pi Network",
     "country": "Global",
     "Authentication": "Verified",
