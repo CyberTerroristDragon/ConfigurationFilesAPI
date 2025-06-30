@@ -14,6 +14,18 @@
   {
     "dataId": 1,
     "id": 0,
+    "title": "Risk Measure Study",
+    "country": "Mzansi",
+    "Authentication": "Verified",
+    "description": "Welcome to this new survey, You will be paid R10.00 to complete this survey",
+    "flagUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/Flags/sa.png",
+    "Tips": "If you do not provide thoughtful answers or simply straight click the entire survey. Your survey will be rejected/deleted by the client and you will not get paid. You must provide honest and thoughtful answer to qualify for payment.",
+    "SurveyIconUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/Icons/springvale_online_logo.png",
+    "SurveySiteUrl": "https://www.research.net/r/T2WHFW9"
+  },
+  {
+    "dataId": 1,
+    "id": 0,
     "title": "Social Media Influencer Endorsement Study",
     "country": "Mzansi",
     "Authentication": "Verified",
