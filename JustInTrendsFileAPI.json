@@ -2,6 +2,18 @@
   {
     "dataId": 1,
     "id": 0,
+    "title": "Free Internet Trick Vodacom",
+    "country": "Mzansi",
+    "Authentication": "Verified",
+    "description": "Use this trick to get Free Vodacom Internet ",
+    "flagUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/Flags/sa.png",
+    "Tips": "Download the app from the Link Below and then search for ZA|Vodacom Free 5 press start and enjoy",
+    "SurveyIconUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/Networks/South Africa/vodacomlogo.png",
+    "SurveySiteUrl": "https://play.google.com/store/apps/details?id=lite.entclass.vpn"
+  },
+  {
+    "dataId": 1,
+    "id": 0,
     "title": "Work Study",
     "country": "Mzansi",
     "Authentication": "Verified",
