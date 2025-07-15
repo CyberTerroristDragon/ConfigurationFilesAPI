@@ -1,4 +1,28 @@
 [
+   {
+    "dataId": 1,
+    "id": 1,
+    "title": "R20.00 Sync Study",
+    "country": "Mzansi",
+    "Authentication": "Verified",
+    "description": "You will receive R20 complete this survey.",
+    "flagUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/Flags/sa.png",
+    "Tips": "*Please note that simply clicking through the survey will not qualify you for payment. It is essential to read each statement carefully before answering. Rushing through the survey and selecting answers at random will not benefit anyone, and your responses will be discarded.* Be aware that there are attention check questions designed to ensure thoughtful participation. Many respondents are paid R250 at at time, by dedicating time and effort to complete multiple surveys. The more surveys you finish, the more opportunities we will provide. *Add R20 to your balance today by giving thoughtful answers.* If you fail to provide meaningful responses or rush through the survey, your submission will be rejected by the client, and you will not receive payment. *Please ensure your answers are honest and considered to qualify for compensation.*",
+    "SurveyIconUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/Icons/springvale_online_logo.png",
+    "SurveySiteUrl": "https://www.research.net/r/SM8DLSM"
+  },
+  {
+    "dataId": 1,
+    "id": 1,
+    "title": "Adventure Awaits Study",
+    "country": "Mzansi",
+    "Authentication": "Verified",
+    "description": "Welcome to this new survey, You will be paid R15.00 to complete this survey.",
+    "flagUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/Flags/sa.png",
+    "Tips": "If you do not provide thoughtful answers or simply straight click the entire survey. Your survey will be rejected/deleted by the client and you will not get paid. You must provide honest and thoughtful answer to qualify for payment.",
+    "SurveyIconUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/Icons/springvale_online_logo.png",
+    "SurveySiteUrl": "https://www.research.net/r/Adventure_Study"
+  },
   {
     "dataId": 1,
     "id": 0,
