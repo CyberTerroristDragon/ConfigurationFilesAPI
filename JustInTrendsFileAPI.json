@@ -1,4 +1,16 @@
 [
+{
+    "dataId": 1,
+    "id": 1,
+    "title": "Motor Vehicle Study",
+    "country": "Mzansi",
+    "Authentication": "Verified",
+    "description": "Welcome to this new survey, You will be paid R10.00 to complete this survey",
+    "flagUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/Flags/sa.png",
+    "Tips": "If you do not provide thoughtful answers or simply straight click the entire survey Your survey will be rejected/deleted by the client and you will not get paid. You must provide honest and thoughtful answer to qualify for payment.",
+    "SurveyIconUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/Icons/springvale_online_logo.png",
+    "SurveySiteUrl": "https://www.research.net/r/Awareness_2025_Study"
+  },
    {
     "dataId": 1,
     "id": 4,
