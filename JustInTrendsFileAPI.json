@@ -1,4 +1,17 @@
 [
+        
+{
+    "dataId": 1,
+    "id": 1,
+    "title": "Pics Survey",
+    "country": "Mzansi",
+    "Authentication": "Verified",
+    "description": "We have short easy survey for you to complete.",
+    "flagUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/Flags/sa.png",
+    "Tips": "This is different from normal research surveys in that we will ask you to take some photos of various places in your home (for example the inside of your fridge, cupboard etc.) because we want to see what brands people are using nowadays without asking so many questions. The survey and ALL the images will be completely anonymous and will be analysed by a machine using AI vision. At no time will anyone be able to link any of the survey responses or images back to you. As an incentive to complete this short survey we will give away. 25 x R100 Cash vouchers for 8min survey. Total payout of R2 500.00. Thats correct you can claim your share of vouchers with just 8mins of your time. 25 lucky respondents will win a voucher for R100.00 in cash. You have an excellent chance of winning.",
+    "SurveyIconUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/Icons/springvale_online_logo.png",
+    "SurveySiteUrl": "https://surveyconnect.questionpro.com/t/AaLupZ6nB8"
+  },
     
 {
     "dataId": 1,
