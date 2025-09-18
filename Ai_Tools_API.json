@@ -68,7 +68,7 @@
     "description": "AI-powered search engine delivering cited, real-time answers with sources, surpassing traditional search for research and fact-checking.",
     "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Perplexity_AI_logo.png",
     "Tips": "Visit perplexity.ai; free with Pro upgrade for advanced models. Follow up with queries for deeper dives into topics.",
-    "SurveyIconUrl": "https://www.perplexity.ai/static/perplexity-logo.png",
+    "SurveyIconUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/Icons/perplexity-logo-png_seeklogo-554497.png",
     "SurveySiteUrl": "https://www.perplexity.ai/"
   },
   {
@@ -80,7 +80,7 @@
     "description": "AI video generator creating professional videos with avatars and voiceovers from text, revolutionizing content creation.",
     "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Synthesia_logo.png",
     "Tips": "Sign up at synthesia.io; free trial available. Customize avatars and scripts for training videos or marketing.",
-    "SurveyIconUrl": "https://www.synthesia.io/hubfs/Synthesia%20Logo%20-%20Black.svg",
+    "SurveyIconUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/Icons/synthesia-logo-png_seeklogo-616583.png",
     "SurveySiteUrl": "https://www.synthesia.io/"
   },
   {
@@ -92,7 +92,7 @@
     "description": "Premier AI voice synthesis tool for realistic text-to-speech, dubbing, and audio production in multiple languages.",
     "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/ElevenLabs_logo.png",
     "Tips": "Start at elevenlabs.io; free credits for testing. Clone voices ethically for podcasts and audiobooks.",
-    "SurveyIconUrl": "https://elevenlabs.io/static/elevenlabs-logo.svg",
+    "SurveyIconUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/Icons/elevenlabs-logo-png_seeklogo-622653.png",
     "SurveySiteUrl": "https://elevenlabs.io/"
   },
   {
@@ -104,7 +104,7 @@
     "description": "AI writing assistant specialized in marketing copy, blog posts, and social media content with brand voice consistency.",
     "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Jasper_AI_logo.png",
     "Tips": "Try jasper.ai; integrates with SEO tools. Use templates for quick campaigns and A/B testing.",
-    "SurveyIconUrl": "https://www.jasper.ai/hubfs/Jasper_Logo.svg",
+    "SurveyIconUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/Icons/jasper_icon.png",
     "SurveySiteUrl": "https://www.jasper.ai/"
   },
   {
@@ -116,7 +116,7 @@
     "description": "AI-enhanced writing tool for grammar, tone, clarity, and plagiarism checks across emails, docs, and web.",
     "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Grammarly_logo.svg",
     "Tips": "Install browser extension at grammarly.com; free basic version. Premium for advanced style suggestions.",
-    "SurveyIconUrl": "https://www.grammarly.com/static/img/brandmark.svg",
+    "SurveyIconUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/Icons/grammarly-logo-png_seeklogo-372361.png",
     "SurveySiteUrl": "https://www.grammarly.com/"
   },
   {
@@ -128,7 +128,7 @@
     "description": "Integrated AI in Notion for note-taking, summarizing, and automating workflows in a all-in-one workspace.",
     "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Notion_logo.svg",
     "Tips": "Access via notion.so; add AI to any plan. Brainstorm ideas and generate tables effortlessly.",
-    "SurveyIconUrl": "https://www.notion.so/images/logo.svg",
+    "SurveyIconUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/Icons/notion-app-logo-png_seeklogo-357020.png",
     "SurveySiteUrl": "https://www.notion.so/"
   },
   {
@@ -140,7 +140,7 @@
     "description": "AI coding companion suggesting code completions, functions, and tests in IDEs like VS Code.",
     "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/GitHub_Logo.svg",
     "Tips": "Enable in GitHub settings; $10/month for individuals. Review suggestions for security.",
-    "SurveyIconUrl": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+    "SurveyIconUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/Icons/github-copilot-logo-png_seeklogo-428029.png",
     "SurveySiteUrl": "https://github.com/features/copilot"
   },
   {
@@ -152,7 +152,7 @@
     "description": "No-code automation platform with AI for zaps connecting apps, enhanced by natural language setup.",
     "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Zapier_logo.svg",
     "Tips": "Build at zapier.com; free for basic automations. Use AI to describe workflows simply.",
-    "SurveyIconUrl": "https://zapier.com/assets/images/brand/zapier-logo.svg",
+    "SurveyIconUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/Icons/zapier-2022-logo-png_seeklogo-461851.png",
     "SurveySiteUrl": "https://zapier.com/"
   },
   {
@@ -164,7 +164,7 @@
     "description": "AI features in Canva for design generation, background removal, and animation from text prompts.",
     "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Canva_Logo.svg",
     "Tips": "Edit at canva.com; free with Pro upgrades. Transform ideas into visuals in seconds.",
-    "SurveyIconUrl": "https://www.canva.com/static/images/brand/logo.svg",
+    "SurveyIconUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/Icons/canva-logo-png_seeklogo-438258.png",
     "SurveySiteUrl": "https://www.canva.com/magic/"
   },
   {
@@ -176,7 +176,7 @@
     "description": "AI assistant embedded in Microsoft 365 for productivity in Word, Excel, Teams, and more.",
     "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Microsoft_logo.svg",
     "Tips": "Activate in Office apps; included in Copilot Pro. Automate reports and meetings.",
-    "SurveyIconUrl": "https://copilot.microsoft.com/static/img/logo.svg",
+    "SurveyIconUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/Icons/microsoft-365-copilot-logo-png_seeklogo-501781.png",
     "SurveySiteUrl": "https://copilot.microsoft.com/"
   }
 ]
