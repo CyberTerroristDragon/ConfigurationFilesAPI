@@ -8,7 +8,7 @@
     "description": "OpenAI's flagship conversational AI model, powering advanced chat, content generation, coding assistance, and more for everyday productivity and creativity.",
     "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/ChatGPT_Logo.svg",
     "Tips": "Sign up at openai.com/chatgpt and start with the free tier; upgrade to Plus for GPT-4o access and higher limits. Ideal for brainstorming, writing, and debugging code.",
-    "SurveyIconUrl": "https://seeklogo.com/images/C/chatgpt-logo-3B0BD5CF6B-seeklogo.com.png",
+    "SurveyIconUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/Icons/gpt_icon.png",
     "SurveySiteUrl": "https://chat.openai.com/"
   },
   {
@@ -20,7 +20,7 @@
     "description": "Anthropic's AI assistant excelling in safe, helpful responses for writing, coding, and complex reasoning tasks, with strong focus on ethical AI.",
     "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Anthropic_logo.png",
     "Tips": "Access via claude.ai; free tier available, Pro for advanced models like Claude 3.5 Sonnet. Great for long-form content and collaborative projects.",
-    "SurveyIconUrl": "https://anthropic.com/icon.png",
+    "SurveyIconUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/Icons/claude_logo.png",
     "SurveySiteUrl": "https://claude.ai/"
   },
   {
@@ -32,7 +32,7 @@
     "description": "Google's multimodal AI for search, image analysis, coding, and integrated Google Workspace tasks, leveraging vast data for accurate insights.",
     "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Google_Gemini_Logo.svg",
     "Tips": "Use through gemini.google.com or Google apps; free with Google account. Perfect for research, data analysis, and creative ideation.",
-    "SurveyIconUrl": "https://gemini.google.com/app/static/images/logo.svg",
+    "SurveyIconUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/Icons/gemini_icon_logo.png",
     "SurveySiteUrl": "https://gemini.google.com/"
   },
   {
@@ -44,7 +44,7 @@
     "description": "Leading AI image generator creating stunning visuals from text prompts, ideal for artists, designers, and marketers in 2025.",
     "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Midjourney_Logo.svg",
     "Tips": "Join via Discord at midjourney.com; start with basic plan. Experiment with parameters like --ar for aspect ratios to refine outputs.",
-    "SurveyIconUrl": "https://www.midjourney.com/logo.png",
+    "SurveyIconUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/Icons/midjourney-logo-png_seeklogo-501203.png",
     "SurveySiteUrl": "https://www.midjourney.com/"
   },
   {
@@ -56,7 +56,7 @@
     "description": "OpenAI's image creation tool integrated into ChatGPT, generating detailed, creative artwork from descriptive text inputs.",
     "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/ChatGPT_Logo.svg",
     "Tips": "Access through ChatGPT Plus; describe scenes vividly for best results. Use for concept art, social media graphics, and prototyping.",
-    "SurveyIconUrl": "https://seeklogo.com/images/D/dall-e-logo-8C3B5E4A5B-seeklogo.com.png",
+    "SurveyIconUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/Icons/open-ai-logo-png_seeklogo-428036.png",
     "SurveySiteUrl": "https://openai.com/dall-e-3"
   },
   {
