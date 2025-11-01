@@ -1,8 +1,20 @@
 [
+  {
+    "dataId": 1,
+    "id": 3,
+    "title": "🎓 Students’ Perceptions of Gen AI Tools – Earn R10!",
+    "country": "Mzansi",
+    "Authentication": "Verified",
+    "description": "We invite you to take part in a short survey exploring *how students in South Africa perceive and use Generative AI tools* like ChatGPT, Gemini, and others. Your input will help researchers better understand students’ experiences, attitudes, and challenges when engaging with AI in education",
+    "flagUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/Flags/global.png",
+    "Tips": "📝 Survey Details: Topic: Students’ Perception of Gen AI Tools Duration: 5–10 minutes Incentive: R10 per valid complete. One response per person",
+    "SurveyIconUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/Icons/springvale_online_logo.png",
+    "SurveySiteUrl": "https://www.research.net/r/Gen_Tools_2025"
+  },
 
  {
     "dataId": 1,
-    "id": 1,
+    "id": 2,
     "title": "R10.00 Luxury Shopping Study",
     "country": "Mzansi",
     "Authentication": "Verified",
