@@ -1,4 +1,16 @@
 [
+ {
+    "dataId": 1,
+    "id": 6,
+    "title": "An Update is Available",
+    "country": "Global",
+    "Authentication": "Verified",
+    "description": "Please click the Join/Apply Button to Update the app in order to get most out of it",
+    "flagUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/Flags/global.png",
+    "Tips": "I have Fixed the problem that caused links not to open and the app should be fine now go ahead test it and share links with your friends",
+    "SurveyIconUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/Icons/configuration_files_icon.png",
+    "SurveySiteUrl": "https://play.google.com/store/apps/details?id=cyberterrorist.dragon.configurationfiles"
+  },
 {
     "dataId": 1,
     "id": 5,
