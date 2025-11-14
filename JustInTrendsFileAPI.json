@@ -1,4 +1,16 @@
 [
+{
+    "dataId": 1,
+    "id": 7,
+    "title": "Beauty and Home Survey - Earn R15",
+    "country": "Mzansi",
+    "Authentication": "Verified",
+    "description": "We invite you to take part in a short Beauty and Home Survey. This study explores how consumers feel about beauty and home products in South Africa.",
+    "flagUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/Flags/global.png",
+    "Tips": "📝 Survey Details: Topic: Beauty and Home Duration: 10 –15 minutes Incentive: R15 per valid complete",
+    "SurveyIconUrl": "https://raw.githubusercontent.com/CyberTerroristDragon/ConfigurationFilesAPI/main/Icons/springvale_online_logo.png",
+    "SurveySiteUrl": "https://www.dooblocawi.com/client/Survey.aspx?Ticket=HFJ7EVII&uid=2439&hid=kiue9TXbA7l0DK0wrVn%2fTVqJHuw%3d"
+  },
  {
     "dataId": 1,
     "id": 6,
